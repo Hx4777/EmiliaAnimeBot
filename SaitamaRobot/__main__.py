@@ -55,14 +55,14 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 `Hey There!` [👩‍💼](https://telegra.ph/file/f40ed0b74e2b73016c887.jpg) `My name is` *Anime Bot*
 `I am an Anime Themed group management bot.
-Managed by Izumi for Your Telegram Group , I specialize in managing anime and similar themed groups.
+Managed by Toon Bots for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD EMILIA TO YOUR GROUP ➕️",url="t.me/EmiliaAnimeBot?startgroup=true"),
+            text="➕️ ADD Anime Bot TO YOUR GROUP ➕️",url=
     ],
     [
         InlineKeyboardButton(
@@ -71,29 +71,29 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="📮 Update Channel", url="https://t.me/EmiliaBotUpdates"),
+            text="📮 Update Channel", url="https://t.me/Toonbot125"),
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/emiliabotlogs"),
+            text="Ask any questions or help", url="@toonbot123_bot"),
           
 
 
 InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://t.me/EmiliaAnimeBotSupport"
+            text="🐱 SUPPORT", url="https://youtube.com/channel/UCkcWb8wl50xrTlCcyjKElUg"
         ),
 
     ],
     [
         InlineKeyboardButton(
-                    text="🍀Anime Group🍀", url="https://t.me/animehubby"
+                    text="Group", url="https://t.me/superarea123"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hey there! My name is` [Anime Bot]("https://telegra.ph/file/83909a7bd542f97edcbb3.jpg") 
+`Hey there! My name is` [Anime Bot] ("https://telegra.ph/file/83909a7bd542f97edcbb3.jpg") 
 I'm a Half Elf and help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
